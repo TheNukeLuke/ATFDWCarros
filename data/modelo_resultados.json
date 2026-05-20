@@ -1,0 +1,129 @@
+{
+  "metrics": {
+    "rmse": 0.052441602657042556,
+    "mae": 0.032384705941308684,
+    "r2": 0.2774855229751054
+  },
+  "feature_importances_top": [
+    {
+      "feature": "idade_anos",
+      "importance": 0.1623203880669396
+    },
+    {
+      "feature": "blindado",
+      "importance": 0.13328043476822846
+    },
+    {
+      "feature": "km",
+      "importance": 0.12288076994620999
+    },
+    {
+      "feature": "log_km",
+      "importance": 0.1160384386919775
+    },
+    {
+      "feature": "descricao_livre_len",
+      "importance": 0.07188415566117505
+    },
+    {
+      "feature": "atributos_extra_n",
+      "importance": 0.0596241001488312
+    },
+    {
+      "feature": "fipe_match_score",
+      "importance": 0.05661228730087901
+    },
+    {
+      "feature": "modelo_alvo_t-cross",
+      "importance": 0.040822897140389655
+    },
+    {
+      "feature": "modelo_alvo_onix",
+      "importance": 0.0228407301220829
+    },
+    {
+      "feature": "tipo_anunciante_LC",
+      "importance": 0.01852938788684692
+    },
+    {
+      "feature": "modelo_alvo_kwid",
+      "importance": 0.018468544237337164
+    },
+    {
+      "feature": "transmissao_automático",
+      "importance": 0.018104137840154563
+    },
+    {
+      "feature": "has_teto_solar_meta",
+      "importance": 0.014281023977852863
+    },
+    {
+      "feature": "tipo_anunciante_PJ",
+      "importance": 0.013978295916848744
+    },
+    {
+      "feature": "transmissao_manual",
+      "importance": 0.01345532612603019
+    },
+    {
+      "feature": "modelo_alvo_hb20",
+      "importance": 0.013394747557943454
+    },
+    {
+      "feature": "has_ar_meta",
+      "importance": 0.01124219602438721
+    },
+    {
+      "feature": "cor_Branco",
+      "importance": 0.010774749139699953
+    },
+    {
+      "feature": "cor_Prata",
+      "importance": 0.009278295113886403
+    },
+    {
+      "feature": "has_sensor_meta",
+      "importance": 0.009194720293573936
+    },
+    {
+      "feature": "cor_Cinza",
+      "importance": 0.008781300225817027
+    },
+    {
+      "feature": "has_multimidia_meta",
+      "importance": 0.00774033682055396
+    },
+    {
+      "feature": "revisao_concessionaria",
+      "importance": 0.0064437089238029745
+    },
+    {
+      "feature": "cor_Preto",
+      "importance": 0.00635443709478113
+    },
+    {
+      "feature": "modelo_alvo_polo",
+      "importance": 0.006343507779045678
+    },
+    {
+      "feature": "estado_conservacao_excelente",
+      "importance": 0.004911291345063632
+    },
+    {
+      "feature": "garagem",
+      "importance": 0.004812462754105602
+    },
+    {
+      "feature": "garantia_fabrica",
+      "importance": 0.004044523454876648
+    },
+    {
+      "feature": "estado_conservacao_nao_mencionado",
+      "importance": 0.0039715851248998905
+    },
+    {
+      "feature": "cor_Azul",
+      "importance": 0.0034377087433354074
+    }
+  ]
+}
